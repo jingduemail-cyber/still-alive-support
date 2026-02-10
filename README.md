@@ -1,8 +1,8 @@
-# Still Alive? — Support
-This repository hosts the public support page for the **Still Alive?** mobile app.
+# Still Alive App — Support
+This repository hosts the public support page for the **Still Alive App**.
 
 ## About the App
-Still Alive? is a simple, privacy-focused daily check-in app designed to support staying connected with people you trust and peace of mind.  
+Still Alive App is a simple, privacy-focused daily check-in app designed to support staying connected with people you trust and peace of mind.  
 Users check in once per day, and if check-ins stop for 3 consecutive days, an email notification is sent to a trusted contact.
 
 ## Support
